@@ -1,0 +1,10 @@
+.container{
+    margin: 2rem;
+    padding: 1.5rem;
+    width: 40rem;
+    height: fit-content;
+    border: 3px solid black;
+}
+.container h3{
+    text-align: center;
+}

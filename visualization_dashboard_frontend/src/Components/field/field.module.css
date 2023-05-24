@@ -1,0 +1,12 @@
+.inpt {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    height: 30px;
+    font-size: 18px;
+}
+
+.inpt input {
+    outline: none;
+    padding: 4px;
+}
